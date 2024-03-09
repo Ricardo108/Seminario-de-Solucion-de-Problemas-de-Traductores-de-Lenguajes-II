@@ -1,4 +1,4 @@
-  # Analizador Lexico
+  <h1 align="center"> Analizador Lexico </h1>
 
 # Contenido
 Un analizador lexico es un modulo destinado a leer caracteres del archivo de entrada, donse se encuentra la cadena a analizar, reconocer subcadenas que correspondan a simbolos del lenguaje y retornar los tokens correspondientes y sus atributo.
