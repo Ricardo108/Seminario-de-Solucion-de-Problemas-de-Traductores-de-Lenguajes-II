@@ -11,7 +11,7 @@ Mencionando lo anterior, al ser tan complicado, se desarrollaron herramientas de
 
 El analizador léxico forma parte de la primera fase de un compilador. Un compilador es un programa que lee un programa escrito en un lenguaje, el lenguaje fuente, y lo traduce a un programa equivalente en otro lenguaje, el lenguaje objeto. El proceso para construir un compilador se encuentra dividido en cuatro etapas: 
 
-# 1 - Analisis lexico.
+# 1 - Analisis lexico.(Lexico/Main.java)
     Transforma el codigo fuente en tokens.
 # 2 - Analisis sintactico.
     Construye un arbol sintactico.
