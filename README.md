@@ -3,7 +3,7 @@
 
  <h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
 
- <h1 align="center"> ![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/5ec13a68-b2ae-4980-9e0e-068ae81e5f24) </h1>
+![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/5ec13a68-b2ae-4980-9e0e-068ae81e5f24) 
 
 
 # Nombre: Rodriguez de Leon Ricardo Emmanuel
