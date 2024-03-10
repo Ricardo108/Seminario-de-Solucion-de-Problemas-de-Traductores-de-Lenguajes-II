@@ -8,11 +8,13 @@
 </div>
 
 
-# Nombre: Rodriguez de Leon Ricardo Emmanuel
+# Nombre: Rodriguez de León Ricardo Emmanuel
 
-  <h1 align="center"> Construcción de tu Traductor </h1>
+<h1 align="center"> Construcción de tu Traductor </h1>
 
 <h1 style="color: red;"> Indice </h1>
+
+* [Introducción](#Introducción)
 
 * [Analizador Lexico](#Analizador-Lexico)
 
@@ -25,6 +27,9 @@
 * [Conclusión](#Conclusión)
 
 * [Bibliografía](#Bibliografía)
+
+<h1 style="color: red;"> Introducción </h1>
+Este es un proyecto a largo plazo, donde se realizara paso a paso un traductor, se podria decir que seria un mini "visual visual studio", se realizara el analisis lexioc, sintactico, semantico y se generara el codigo maquina. Se conocera mas sobre los analizadores que se realizaran y se hablara un poco de como funciona cada uno de ellos.
 
 <h1 style="color: red;"> Contenido </h1>
 
