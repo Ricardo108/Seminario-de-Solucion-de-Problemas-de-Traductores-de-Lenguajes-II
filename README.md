@@ -12,7 +12,7 @@
 
   <h1 align="center"> Construcción de tu Traductor </h1>
 
-<h1 style="color: red;"> Indice </h1>
+<span style="color: red;"> Indice </span>
 
 * [Analizador Lexico](#Analizador-Lexico)
 
