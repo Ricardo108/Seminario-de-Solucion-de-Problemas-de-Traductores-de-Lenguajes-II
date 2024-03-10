@@ -45,6 +45,9 @@ Un analizador sintactico tiene como objetiovo encontrar las estructuras en su en
 ### Funcion del analizador sintactico
 El analizador sintactico, podria decirse que es la egunda etapa para el compilador, para la construccion de este mismo, se suelen emplear gramaticas incontextuales, generalmente restringidas para que el analisis se pueda realizar de manera eficiente.
 
+## Analizador Semantico
+*Proximamente*
+
 # 1 - Analisis lexico.
     Transforma el codigo fuente en tokens.
 * [Ir al analizador lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/bbe044c5602044cc5c2c078dfbef22010137d307/Lexico)
@@ -52,10 +55,14 @@ El analizador sintactico, podria decirse que es la egunda etapa para el compilad
 # 2 - Analisis sintactico.
     Construye un arbol sintactico.
 * [Ir al analizador sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/bbe044c5602044cc5c2c078dfbef22010137d307/sintactico)
+
 # 3 - Analisis semantico.
-    Realiza el chequeo de tipos
+    Realiza el chequeo de tipos.
+* *Proximanente*
+
 # 4 - Generacion de codigo
     Genera codigo de maquina.
+* *Proximanente*
 
 <h1 style="color: red;"> Diagrama </h1>
 
