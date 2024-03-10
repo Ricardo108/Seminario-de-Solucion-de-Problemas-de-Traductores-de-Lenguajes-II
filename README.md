@@ -65,11 +65,11 @@ El analizador sintactico, podria decirse que es la egunda etapa para el compilad
 
 # 3 - Analisis semantico.
     Realiza el chequeo de tipos.
-* *Proximanente*
+* *Proximamente*
 
 # 4 - Generacion de codigo
     Genera codigo de maquina.
-* *Proximanente*
+* *Proximamente*
 
 # Diagrama
 
@@ -84,7 +84,8 @@ El analizador léxico puede realizar tareas secundarias en la interfaz del usuar
 
 # Bibliografía
 https://dc.exa.unrc.edu.ar/staff/fbavera/papers/TesisJTLex-Bavera-Nordio-02.pdf
-
+---
 https://repositori.uji.es/xmlui/bitstream/handle/10234/5877/lexico.apun.pdf?sequence=1
-
+---
 https://repositori.uji.es/xmlui/bitstream/handle/10234/22658/II26_analisis_sintactico.pdf?sequence=1&isAllowed=y
+---
