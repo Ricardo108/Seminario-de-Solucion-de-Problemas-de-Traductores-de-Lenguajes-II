@@ -14,9 +14,9 @@
 
 # Indice
 
-* [Introducción](#Introducción)
+* [Introducción](#introducción)
 
-* [Contenido](#Contenido)
+* [Contenido](#contenido)
 
 * [Analizador Lexico](#Analizador-Lexico)
 
@@ -24,11 +24,11 @@
 
 * [Analizador Semantico](#Analizador-Semantico)
 
-* [Mini diagrama](#Diagrama)
+* [Mini diagrama](#diagrama)
 
-* [Conclusión](#Conclusión)
+* [Conclusión](#conclusión)
 
-* [Bibliografía](#Bibliografía)
+* [Bibliografía](#bibliografía)
 
 # Introducción
 Este es un proyecto a largo plazo, donde se realizara paso a paso un traductor, se podria decir que seria un "mini visual studio", se realizara el analisis lexioc, sintactico, semantico y se generara el codigo maquina. Se conocera mas sobre los analizadores que se realizaran y se hablara un poco de como funciona cada uno de ellos.
@@ -75,7 +75,7 @@ El analizador sintactico, podria decirse que es la egunda etapa para el compilad
 
 ![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/cd41c71f-89a4-47d6-945b-e6d48cbb9816)
 
-<h1 style="color: red;"> Conclusión </h1>
+# Conclusión
 La función principal de los analizadores léxicos consiste en leer la secuencia de caracteres de entrada y dar como resultado una secuencia de componentes léxicos que utiliza el analizador sintáctico para hacer el análisis.
 El analizador léxico puede realizar tareas secundarias en la interfaz del usuario, como eliminar espacios en blanco, tabulaciones y caracteres de fin de línea. En algunas ocasiones, los analizadores léxicos se dividen en una cascada de dos fases: la primera llamada “examen” y la segunda “análisis léxico”. El examinador se encarga de realizar tareas sencillas, mientras que el analizador léxico es el que realiza las operaciones más complejas.
 
