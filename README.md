@@ -1,15 +1,36 @@
-  # Analizador Lexico
+<h1 align="center"> CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS </h1>
+ <h1 align="center"> DEPARTAMENTO DE CIENCIAS COMPUTACIONALES </h1>
+
+ <h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
+
+<div align="center">
+  <img src="Imagenes/Image1.png" alt="Logo UDG" width="200" />
+</div>
+
+
+# Nombre: Rodriguez de Leon Ricardo Emmanuel
+  <h1 align="center"> Construcción de tu Traductor </h1>
+
+# Indice
+* [Analizador Lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Lexico)
+
+* [Analizdor Sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Sintactico)
 
 # Contenido
+
+## Analizador Lexico
 Un analizador lexico es un modulo destinado a leer caracteres del archivo de entrada, donse se encuentra la cadena a analizar, reconocer subcadenas que correspondan a simbolos del lenguaje y retornar los tokens correspondientes y sus atributo.
 
     Escribir analizadores lexicos a mano es muy complicado.
     
 Mencionando lo anterior, al ser tan complicado, se desarrollaron herramientas de software, para esto, los generadores de analizadores lexicos, que generan automaticamente un analizador lexico a partir de especificacion provista por el usuario.
 
-# Funcion del analizador lexico
+### Funcion del analizador lexico
 
 El analizador léxico forma parte de la primera fase de un compilador. Un compilador es un programa que lee un programa escrito en un lenguaje, el lenguaje fuente, y lo traduce a un programa equivalente en otro lenguaje, el lenguaje objeto. El proceso para construir un compilador se encuentra dividido en cuatro etapas: 
+
+## Analizador Sintactico
+
 
 # 1 - Analisis lexico.
     Transforma el codigo fuente en tokens.
