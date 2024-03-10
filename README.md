@@ -13,9 +13,9 @@
   <h1 align="center"> Construcción de tu Traductor </h1>
 
 # Indice
-* [Analizador Lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Lexico)
+* [Analizador Lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/version-0.0.2#Analizador-Lexico)
 
-* [Analizdor Sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Sintactico)
+* [Analizdor Sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/version-0.0.2#Analizador-Sintactico)
 
 <h1 align="center"> Analizador Lexico </h1>
 
