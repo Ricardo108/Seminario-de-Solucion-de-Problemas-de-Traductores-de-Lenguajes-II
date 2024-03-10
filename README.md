@@ -1,7 +1,7 @@
 <h1 align="center"> CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS </h1>
- <h1 align="center"> DEPARTAMENTO DE CIENCIAS COMPUTACIONALES </h1>
+<h1 align="center"> DEPARTAMENTO DE CIENCIAS COMPUTACIONALES </h1>
 
- <h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
+<h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
 
 <div align="center">
   <img src="Imagenes/Image1.png" alt="Logo UDG" width="200" />
