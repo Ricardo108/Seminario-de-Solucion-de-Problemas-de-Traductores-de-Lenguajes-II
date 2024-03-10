@@ -12,7 +12,7 @@
 
 <h1 align="center"> Construcción de tu Traductor </h1>
 
-<h1 style="color: red;"> Indice </h1>
+# Indice
 
 * [Introducción](#Introducción)
 
@@ -30,10 +30,10 @@
 
 * [Bibliografía](#Bibliografía)
 
-<h1 style="color: red;"> Introducción </h1>
+# Introducción
 Este es un proyecto a largo plazo, donde se realizara paso a paso un traductor, se podria decir que seria un "mini visual studio", se realizara el analisis lexioc, sintactico, semantico y se generara el codigo maquina. Se conocera mas sobre los analizadores que se realizaran y se hablara un poco de como funciona cada uno de ellos.
 
-<h1 style="color: red;"> Contenido </h1>
+# Contenido
 
 ## Analizador Lexico
 Un analizador lexico es un modulo destinado a leer caracteres del archivo de entrada, donse se encuentra la cadena a analizar, reconocer subcadenas que correspondan a simbolos del lenguaje y retornar los tokens correspondientes y sus atributo.
@@ -71,7 +71,7 @@ El analizador sintactico, podria decirse que es la egunda etapa para el compilad
     Genera codigo de maquina.
 * *Proximanente*
 
-<h1 style="color: red;"> Diagrama </h1>
+# Diagrama
 
 ![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/cd41c71f-89a4-47d6-945b-e6d48cbb9816)
 
@@ -82,7 +82,7 @@ El analizador léxico puede realizar tareas secundarias en la interfaz del usuar
 
 
 
-<h1 style="color: red;"> Bibliografía </h1>
+# Bibliografía
 https://dc.exa.unrc.edu.ar/staff/fbavera/papers/TesisJTLex-Bavera-Nordio-02.pdf
 
 https://repositori.uji.es/xmlui/bitstream/handle/10234/5877/lexico.apun.pdf?sequence=1
