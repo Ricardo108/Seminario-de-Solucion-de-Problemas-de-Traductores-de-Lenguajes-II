@@ -29,7 +29,7 @@
 * [Bibliografía](#Bibliografía)
 
 <h1 style="color: red;"> Introducción </h1>
-Este es un proyecto a largo plazo, donde se realizara paso a paso un traductor, se podria decir que seria un mini "visual visual studio", se realizara el analisis lexioc, sintactico, semantico y se generara el codigo maquina. Se conocera mas sobre los analizadores que se realizaran y se hablara un poco de como funciona cada uno de ellos.
+Este es un proyecto a largo plazo, donde se realizara paso a paso un traductor, se podria decir que seria un "mini visual studio", se realizara el analisis lexioc, sintactico, semantico y se generara el codigo maquina. Se conocera mas sobre los analizadores que se realizaran y se hablara un poco de como funciona cada uno de ellos.
 
 <h1 style="color: red;"> Contenido </h1>
 
