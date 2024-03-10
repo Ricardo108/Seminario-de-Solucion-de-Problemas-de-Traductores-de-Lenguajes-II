@@ -4,7 +4,7 @@
  <h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
 
 <div style="text-align: center;">
-  <img src="/Imagenes/image1.png" alt="Logo UDG" width="200" />
+  <img src="Imagenes/Image1.png" alt="Logo UDG" width="200" />
 </div>
 
 
