@@ -12,20 +12,21 @@
 
   <h1 align="center"> Construcción de tu Traductor </h1>
 
-# Indice
+<h1 style="color: red;"> Indice </h1>
+
 * [Analizador Lexico](#Analizador-Lexico)
 
-* [Analizdor Sintactico](#Analizador-Sintactico)
+* [Analizador Sintactico](#Analizador-Sintactico)
 
-* [Analizdor Semantico](#Analizador-Semantico)
+* [Analizador Semantico](#Analizador-Semantico)
 
 * [Mini diagrama](#Diagrama)
 
-* [Conclusion](#Conclusion)
+* [Conclusión](#Conclusión)
 
 * [Bibliografía](#Bibliografía)
 
-# Contenido
+<h1 style="color: red;"> Contenido </h1>
 
 ## Analizador Lexico
 Un analizador lexico es un modulo destinado a leer caracteres del archivo de entrada, donse se encuentra la cadena a analizar, reconocer subcadenas que correspondan a simbolos del lenguaje y retornar los tokens correspondientes y sus atributo.
@@ -46,25 +47,28 @@ El analizador sintactico, podria decirse que es la egunda etapa para el compilad
 
 # 1 - Analisis lexico.
     Transforma el codigo fuente en tokens.
+* [Ir al analizador lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/bbe044c5602044cc5c2c078dfbef22010137d307/Lexico)
+
 # 2 - Analisis sintactico.
     Construye un arbol sintactico.
+* [Ir al analizador sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/tree/bbe044c5602044cc5c2c078dfbef22010137d307/sintactico)
 # 3 - Analisis semantico.
     Realiza el chequeo de tipos
 # 4 - Generacion de codigo
     Genera codigo de maquina.
 
-# Diagrama
+<h1 style="color: red;"> Diagrama </h1>
 
 ![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/cd41c71f-89a4-47d6-945b-e6d48cbb9816)
 
-# Conclusion
+<h1 style="color: red;"> Conclusión </h1>
 La función principal de los analizadores léxicos consiste en leer la secuencia de caracteres de entrada y dar como resultado una secuencia de componentes léxicos que utiliza el analizador sintáctico para hacer el análisis.
 El analizador léxico puede realizar tareas secundarias en la interfaz del usuario, como eliminar espacios en blanco, tabulaciones y caracteres de fin de línea. En algunas ocasiones, los analizadores léxicos se dividen en una cascada de dos fases: la primera llamada “examen” y la segunda “análisis léxico”. El examinador se encarga de realizar tareas sencillas, mientras que el analizador léxico es el que realiza las operaciones más complejas.
 
 
 
 
-# Bibliografía
+<h1 style="color: red;"> Bibliografía </h1>
 https://dc.exa.unrc.edu.ar/staff/fbavera/papers/TesisJTLex-Bavera-Nordio-02.pdf
 
 https://repositori.uji.es/xmlui/bitstream/handle/10234/5877/lexico.apun.pdf?sequence=1
