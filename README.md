@@ -3,7 +3,9 @@
 
  <h1 align="center"> UNIVERSIDAD DE GUADALAJARA </h1>
 
-![image](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II/assets/75130733/5ec13a68-b2ae-4980-9e0e-068ae81e5f24) 
+<div style="text-align: center;">
+  <img src="/Hilos/Imagenes/image.png" alt="Logo UDG" width="200" />
+</div>
 
 
 # Nombre: Rodriguez de Leon Ricardo Emmanuel
