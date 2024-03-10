@@ -9,12 +9,16 @@
 
 
 # Nombre: Rodriguez de Leon Ricardo Emmanuel
+
   <h1 align="center"> Construcción de tu Traductor </h1>
 
 # Indice
 * [Analizador Lexico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Lexico)
 
 * [Analizdor Sintactico](https://github.com/Ricardo108/Seminario-de-Solucion-de-Problemas-de-Traductores-de-Lenguajes-II#Analizador-Sintactico)
+
+<h1 align="center"> Analizador Lexico </h1>
+
 
 # Contenido
 
