@@ -60,7 +60,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
+        
         Pila pila = new Pila();
         ElementoPila elemento;
         int fila, columna, accion;
